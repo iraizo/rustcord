@@ -9,3 +9,4 @@ edition = "2018"
 [dependencies]
 serenity = "0.9.1"
 iced = "0.1"
+notify-rust = "4"
